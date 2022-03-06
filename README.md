@@ -12,8 +12,6 @@ Most of the site works as intended a few minor issues. You can create a new acco
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Questions](#questions)
-- [Deployment](#deployment)
 
 ## Installation Instructions:
 
@@ -32,14 +30,11 @@ Want to contriubte? Here's the guidelines: None at the moment!
 
 ## License:
 
-This application is covered under the MIT license. 
+This application is covered under the ISC license. 
 
 ## My Github Account:
 
   Click here: https://github.com/edirie
 
-## Questions:
 
-  Feel free to email me at: cmurtau@g.clemson.edu
-  
-## Deployment: 
+
