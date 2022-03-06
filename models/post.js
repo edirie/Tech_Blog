@@ -1,4 +1,3 @@
-
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
@@ -39,9 +38,3 @@ Post.init(
   );
   
   module.exports = Post;
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs

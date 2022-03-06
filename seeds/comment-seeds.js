@@ -20,6 +20,3 @@ const commentData = [{
 const seedComments = () => Comment.bulkCreate(commentData);
 
 module.exports = seedComments;
-© 2022 GitHub, Inc.
-Terms
-Privacy

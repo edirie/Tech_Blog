@@ -2,7 +2,7 @@ const { Post } = require('../models');
 
 const postData = [{
         title: 'Who is he best basketball plauer of all time',
-        content: 'It is obviouslt me, Michael Jordan',
+        content: 'It is obviously me, Michael Jordan',
         user_id: 1
 
     },
